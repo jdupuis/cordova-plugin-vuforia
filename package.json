@@ -54,6 +54,6 @@
   "author": "Proximit",
   "license": "MIT",
   "dependencies": {
-    "cordova-plugin-vuforia-sdk": "10.x.x"
+    "cordova-plugin-vuforia-sdk": "git://github.com/jdupuis/cordova-plugin-vuforia-sdk.git#vuforia-10.24"
   }
 }
