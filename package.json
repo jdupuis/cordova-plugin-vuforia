@@ -1,14 +1,14 @@
 {
   "name": "cordova-plugin-vuforia",
   "description": "Cordova Vuforia Plugin",
-  "version": "3.2.1",
-  "homepage": "https://github.com/mattrayner/cordova-plugin-vuforia",
+  "version": "4.0.0",
+  "homepage": "https://github.com/jdupuis/cordova-plugin-vuforia",
   "repository": {
     "type": "git",
-    "url": "git@github.com:mattrayner/cordova-plugin-vuforia.git"
+    "url": "git@github.com:jdupuis/cordova-plugin-vuforia.git"
   },
   "bugs": {
-    "url": "https://github.com/mattrayner/cordova-plugin-vuforia/issues"
+    "url": "https://github.com/jdupuis/cordova-plugin-vuforia/issues"
   },
   "cordova": {
     "id": "cordova-plugin-vuforia",
@@ -43,12 +43,17 @@
       },
       ">=3.0.0": {
         "cordova": ">=6.1.0"
+      },
+      ">=4.0.0": {
+        "cordova": ">=12.0.0",
+        "cordova-ios": ">=7.1.0",
+        "cordova-android": ">=13.0.0"
       }
     }
   },
-  "author": "Matthew Rayner",
+  "author": "Proximit",
   "license": "MIT",
   "dependencies": {
-    "cordova-plugin-vuforia-sdk": "6.x.x"
+    "cordova-plugin-vuforia-sdk": "10.x.x"
   }
 }
