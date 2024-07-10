@@ -8,13 +8,13 @@
     <description>Cordova Vuforia Plugin</description>
     <license>MIT</license>
     <keywords>cordova,vuforia,image,recognition,augmented,reality</keywords>
-    <repo>git@github.com:mattrayner/cordova-plugin-vuforia.git</repo>
-    <issue>https://github.com/mattrayner/cordova-plugin-vuforia/issues</issue>
+    <repo>git@github.com:jdupuis/cordova-plugin-vuforia.git</repo>
+    <issue>https://github.com/jdupuis/cordova-plugin-vuforia/issues</issue>
 
     <author>Matthew Rayner</author>
 
     <info>
-        Cordova Vuforia Plugin version 3.2.1, Copyright (C) 2016 Matthew Rayner
+        Cordova Vuforia Plugin version 4.0.0, Copyright (C) 2024 Proximit
         Cordova Vuforia Plugin comes with ABSOLUTELY NO WARRANTY; see the
         LICENSE file for more information.
         This is free software, and you are welcome to redistribute it
